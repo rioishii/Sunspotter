@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sun Spotter</string>
+    <string name="prompt">Enter City Name</string>
+    <string name="weather">Weather Image</string>
+    <string name="OPEN_WEATHER_MAP_API_KEY">5ed6baa28fa99d028746985000dff452</string>
+    <string name="sunny_text">There will be sun!</string>
+    <string name="not_sunny_text">There\'s no sun!</string>
+    <string name="button_label">FIND SUN</string>
+</resources>
